@@ -1,0 +1,10 @@
+{
+  "name": "PureByte Ingredient Safety",
+  "description": "An interactive, cinematic AI Ingredient Safety Analyzer with holographic scanning, real-time risk intelligence, and chemical disease mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
